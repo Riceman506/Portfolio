@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/profile.jpg"
+profile_picture = "profile.jpg"
 about_me = "My name is Andy Lu. I am a First Year at the Georgia Institute of Technology. I am studying Computer Science and also plan on joining NROTC."
 
 
@@ -33,10 +33,10 @@ course_data = {
     }
 experience_data = {
     "Panera Bread": (["- Created sandwiches, flatbreads, and salads",
-                                                                          "- Assisted coworkers in their departments"],"images/panera.jpg"),
+                                                                          "- Assisted coworkers in their departments"],"panera.jpg"),
     "Houston County High School Front Office":(["- Toured new students around the school",
-                                                           "- Answered questions from parents and guardiens", "- Delivered packages to teachers"],"images/hoco.jpg"),
-    "Central Baptist Chruch Intern":(["- Created graphic designs for an upcoming 3 month project"],"images/cbs.png")
+                                                           "- Answered questions from parents and guardiens", "- Delivered packages to teachers"],"hoco.jpg"),
+    "Central Baptist Chruch Intern":(["- Created graphic designs for an upcoming 3 month project"],"cbs.png")
 
 }
 
@@ -64,7 +64,7 @@ spoken_data = {
 }
 leadership_data = {
     "Georgia FCCLA First Vice President": (["- Managed the State Executive Council", 
-                                            "- Developed leadership workshops and presented at various schools and conferences", "- Create graphics and ran the Georgia FCCLA social media"],"images/gafccla.JPG"),
+                                            "- Developed leadership workshops and presented at various schools and conferences", "- Create graphics and ran the Georgia FCCLA social media"],"gafccla.JPG"),
 
 }
 activity_data={
