@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Portfolio/profile.jpg"
+profile_picture = "Portfolio/profile1.png"
 about_me = "My name is Andy Lu. I am a First Year at the Georgia Institute of Technology. I am studying Computer Science and also plan on joining NROTC."
 
 
