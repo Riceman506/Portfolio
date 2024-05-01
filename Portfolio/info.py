@@ -36,7 +36,7 @@ experience_data = {
                                                                           "- Assisted coworkers in their departments"],"Portfolio/panera.jpg"),
     "Houston County High School Front Office":(["- Toured new students around the school",
                                                            "- Answered questions from parents and guardiens", "- Delivered packages to teachers"],"Portfolio/hoco.jpg"),
-    "Central Baptist Chruch Intern":(["- Created graphic designs for an upcoming 3 month project"],"cbs.png")
+    "Central Baptist Chruch Intern":(["- Created graphic designs for an upcoming 3 month project"],"Portfolio/cbs.png")
 
 }
 
