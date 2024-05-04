@@ -3,7 +3,7 @@
 
 #CHANGE BELOW
 profile_picture = "Portfolio/profile.png"
-about_me = "My name is Andy Lu. I am a First Year at the Georgia Institute of Technology. I am studying Computer Science and also plan on joining NROTC."
+about_me = "My name is Andy Lu. I am a First Year at the Georgia Institute of Technology. I am studying Computer Science and am apart of Georgia Tech Navy ROTC."
 
 
 #CHANGE BELOW (OPTIONAL)
@@ -25,19 +25,18 @@ education_data ={
     'GPA': '4.0'
 }
 course_data = {
-    "code":["CS 1301","MATH 1554"], 
-    "names":["Intro to CS", "Linear Algebra"], 
-    "semester_taken":["1st", "1st"],
-    "skills":["Basics of Python", "Understanding the fundamentals of Linear Algebra"],
+    "code":["CS 1301","MATH 1554", "CS 1331", "MATH 2550"], 
+    "names":["Intro to CS", "Linear Algebra", "Intro to Object-Oriented Programing, "Intro to Multivariable Calculus"], 
+    "semester_taken":["Fall 2023", "Fall 2023", "Spring 2024", "Spring 2024"],
+    "skills":["Basics of Python", "Understanding the fundamentals of Linear Algebra", "Understanding the fundamentals of OOP", "Extending the understand of concepts from differential and integral calculus to various variables"],
 
     }
 experience_data = {
-    "Panera Bread": (["- Created sandwiches, flatbreads, and salads",
-                                                                          "- Assisted coworkers in their departments"],"Portfolio/panera.jpg"),
-    "Houston County High School Front Office":(["- Toured new students around the school",
-                                                           "- Answered questions from parents and guardiens", "- Delivered packages to teachers"],"Portfolio/hoco.jpg"),
-    "Central Baptist Chruch Intern":(["- Created graphic designs for an upcoming 3 month project"],"Portfolio/cbs.png")
-
+    "Geogia Institue of Technology Tutor": (["- Provided comprehensive tutoring in CS 1301 to a diverse group of students primarily from non-CS majors, significantly enhancing their understanding of fundamental programming concepts",
+                                                                         ],"Portfolio/GTVertical_RGB.png"),
+    "Georgia FCCLA Board of Directors ":(["- Alumni & Associates Representative ",
+                                                           "- Voting member on the Board of Directors for Georgia Family, Career and Community Leaders of America", "- Serves on committees to guide the direction of the non profit student organization"],"Portfolio/gafccla.JPG"),
+    "Central Baptist Chruch Intern":(["- Created graphic posts for each day of a four month long Bible devotional", "- Researched software and implemented a system to automatically post graphics"],"Portfolio/cbs.png")
 }
 
 projects_data = {
@@ -45,8 +44,8 @@ projects_data = {
 }
 
 programming_data = {
-    "Python": 60,
-    "Java": 40,
+    "Python": 75,
+    "Java": 75,
     "Html": 35,
 }
 
@@ -60,7 +59,7 @@ programming_icons = {
 #CHANGE BELOW
 spoken_data = {
     "English": "Fluent",
-    "Chinese": "Fluent",
+    "Chinese": "Intermediate",
 }
 leadership_data = {
     "Georgia FCCLA First Vice President": (["- Managed the State Executive Council", 
@@ -68,6 +67,8 @@ leadership_data = {
 
 }
 activity_data={
+    "GT NROTC": (["- Photographer for the Battalion", 
+            "- Voluteer at various events", "- Recieved mentorship from various peers and upperclassmen"]),
     "GT Vietnamese Student Assocation": (["- Member of an ACE family", 
             "- Voluteer at various events"]),
     "GT Sailing Club": (["- Sails 420s"]),
