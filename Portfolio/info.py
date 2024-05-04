@@ -26,7 +26,7 @@ education_data ={
 }
 course_data = {
     "code":["CS 1301","MATH 1554", "CS 1331", "MATH 2550"], 
-    "names":["Intro to CS", "Linear Algebra", "Intro to Object-Oriented Programing, "Intro to Multivariable Calculus"], 
+    "names":["Intro to CS", "Linear Algebra", "Intro to Object-Oriented Programing", "Intro to Multivariable Calculus"], 
     "semester_taken":["Fall 2023", "Fall 2023", "Spring 2024", "Spring 2024"],
     "skills":["Basics of Python", "Understanding the fundamentals of Linear Algebra", "Understanding the fundamentals of OOP", "Extending the understand of concepts from differential and integral calculus to various variables"],
 
