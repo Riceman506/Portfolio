@@ -32,8 +32,7 @@ course_data = {
 
     }
 experience_data = {
-    "Geogia Institue of Technology Tutor": (["- Provided comprehensive tutoring in CS 1301 to a diverse group of students primarily from non-CS majors, significantly enhancing their understanding of fundamental programming concepts",
-                                                                         ],"Portfolio/GTVertical_RGB.png"),
+    "Geogia Institue of Technology Tutor": (["- Provided comprehensive tutoring in CS 1301 to a diverse group of students primarily from non-CS majors, significantly enhancing their understanding of fundamental programming concepts"],"Portfolio/GTVertical_RGB.png"),
     "Georgia FCCLA Board of Directors ":(["- Alumni & Associates Representative ",
                                                            "- Voting member on the Board of Directors for Georgia Family, Career and Community Leaders of America", "- Serves on committees to guide the direction of the non profit student organization"],"Portfolio/gafccla.JPG"),
     "Central Baptist Chruch Intern":(["- Created graphic posts for each day of a four month long Bible devotional", "- Researched software and implemented a system to automatically post graphics"],"Portfolio/cbs.png")
